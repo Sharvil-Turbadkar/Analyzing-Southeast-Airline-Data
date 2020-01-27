@@ -17,8 +17,7 @@ The effects of these loyalty programs were becoming in question, as customers se
 They also seemed to cause issues for the airlines, as well, as it was suggested that frequent flyer points were behind almost $12 billion of “loyalty debt” from these programs.
 Moreover, it was difficult to track customer churn, in general, because it is a “lagging indicator”.
 
-This was done by analyzing the Net Promoter Score data provided to us. Net Promoter Score, or NPS for short, is a survey that asks 
-customers to respond to the following question on a scale of 1-10: “How likely is it that you will recommend our airline to a friend?”. 
+This was done by analyzing the Net Promoter Score data provided to us. 
 A score above 7 categorizes a customer as a “promoter”, meaning that they are a good asset to the airline, and will likely help to increase their business.
 Finally, a score below 7 categorizes the customer as a “detractor”, meaning that they are likely to switch to a different airline. 
 Moreover, the overall NPS score can be calculated by subtracting the percentage of detractors in a study by the percentage of promoters. 
