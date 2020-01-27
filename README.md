@@ -23,3 +23,4 @@ Finally, a score below 7 categorizes the customer as a “detractor”, meaning 
 Moreover, the overall NPS score can be calculated by subtracting the percentage of detractors in a study by the percentage of promoters. 
 Although this may seem like a simple process, it also gives the individuals analyzing the results the opportunity to examine certain attributes of the customers within the study.
 
+Link to prezi Presentation:https://prezi.com/view/kLBNYcdvlns2iZEsBAJq/
