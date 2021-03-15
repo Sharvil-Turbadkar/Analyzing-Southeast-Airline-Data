@@ -1,6 +1,6 @@
 # Analyzing-Southeast-Airline-Data
 
-  <img src="Images/airline.jpg" ,width="500">
+  <img src="Images/airline.jpg" ,width="500",title="Customer Churn Analysis">
 ## Abstract: 
 We created this project to help a fictional client, Southeast Airlines, in retaining its customers and get a holistic view of how a back-end data scientist and front-end analyst work cohesively to help a client in real-time
 
