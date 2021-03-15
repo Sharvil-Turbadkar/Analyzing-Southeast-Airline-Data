@@ -1,5 +1,8 @@
 # Analyzing-Southeast-Airline-Data
-## Abstract: We created this project to help a fictional client, Southeast Airlines, in retaining its customers and get a holistic view of how a back-end data scientist and front-end analyst work cohesively to help a client in real-time
+
+  <img src="images/airlines.jpeg" ,width="500">
+## Abstract: 
+We created this project to help a fictional client, Southeast Airlines, in retaining its customers and get a holistic view of how a back-end data scientist and front-end analyst work cohesively to help a client in real-time
 
 ## Business Goals:
 Which are the factors which tend to influence the satisfaction of the customers towards the airlines, and which is the most effective one?
