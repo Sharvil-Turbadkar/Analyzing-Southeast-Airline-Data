@@ -5,7 +5,8 @@
 Which are the factors which tend to influence the satisfaction of the customers towards the airlines, and which is the most effective one?
 Is there any solution which could help them stand out in achieving higher customer satisfaction in correspondence to Southeast Airlines?
 
-## Technologies: R(dplyr, ggplot, tidyverse , data.frame)
+## Technologies Used : 
+Programs :R(dplyr, ggplot, tidyverse , data.frame)
 Models Used: Random Forest, Association Rule Mining, MCA  
 
 ## Insights and Recommendations :
