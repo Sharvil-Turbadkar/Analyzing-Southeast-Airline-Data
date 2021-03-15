@@ -1,6 +1,7 @@
 # Analyzing-Southeast-Airline-Data
-  <img src= "images/Picture1_auto_x1.png" width="500" title="Cloud Architecture">
-  <img src="Images/airline.jpg" ,width="1500",height="1000 title="Customer Churn Analysis">
+  
+  
+  <img src= "Images/airline.jpg" width="500" height="300">
 
 ## Abstract: 
 We created this project to help a fictional client, Southeast Airlines, in retaining its customers and get a holistic view of how a back-end data scientist and front-end analyst work cohesively to help a client in real-time
@@ -10,6 +11,7 @@ Is there any solution which could help them stand out in achieving higher custom
 
 ## Technologies Used : 
 Programs :R(dplyr, ggplot, tidyverse , data.frame)
+
 Models Used: Random Forest, Association Rule Mining, MCA  
 
 ## Insights and Recommendations :
